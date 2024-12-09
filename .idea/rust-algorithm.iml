@@ -2,7 +2,11 @@
 <module type="EMPTY_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/chap01_intro/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chap03_table_stack_quque/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/chap01_intro/target" />
+      <excludeFolder url="file://$MODULE_DIR$/chap03_table_stack_quque/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
